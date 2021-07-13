@@ -1,0 +1,23 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-rockstar-dev-214544-authRole",
+            "UnauthRoleArn": "arn:aws:iam::488942797023:role/amplify-rockstar-dev-214544-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::488942797023:role/amplify-rockstar-dev-214544-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-rockstar-dev-214544-deployment",
+            "UnauthRoleName": "amplify-rockstar-dev-214544-unauthRole",
+            "StackName": "amplify-rockstar-dev-214544",
+            "StackId": "arn:aws:cloudformation:us-east-1:488942797023:stack/amplify-rockstar-dev-214544/de26c3f0-e3cf-11eb-83fd-0ed2247e0ea9",
+            "AmplifyAppId": "d347ghn1dwp0vs"
+        },
+        "categories": {
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "d347ghn1dwp0vs",
+                    "type": "cicd"
+                }
+            }
+        }
+    }
+}
